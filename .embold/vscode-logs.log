@@ -1,0 +1,31 @@
+2023-03-13 23:10:55 info: tempDirectory:/Users/paulinkubwira/.vscode/extensions/embold-vscode.embold-0.1.4/temp
+2023-03-13 23:10:55 info: Extraction complete for source: /Users/paulinkubwira/.vscode/extensions/embold-vscode.embold-0.1.4/resources/embold-scanner-archive.zip, destination: /Users/paulinkubwira/.vscode/extensions/embold-vscode.embold-0.1.4/temp
+2023-03-13 23:10:55 info: Congratulations, your extension "Embold" is now active!
+2023-03-13 23:24:28 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/package-lock.json
+2023-03-13 23:24:28 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:24:34 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/node_modules
+2023-03-13 23:24:34 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/trace
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/types
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/server
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/static
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/build-manifest.json
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/app-build-manifest.json
+2023-03-13 23:26:29 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/react-loadable-manifest.json
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:29 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:40 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/cache/webpack/client-development/0.pack_
+2023-03-13 23:26:40 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/cache/webpack/server-development/0.pack_
+2023-03-13 23:26:40 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/cache/webpack/client-development/index.pack_
+2023-03-13 23:26:40 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/cache/webpack/server-development/index.pack_
+2023-03-13 23:26:40 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:40 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:40 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:26:40 error: SQLITE_ERROR: no such table: issues
+2023-03-13 23:27:41 info: file:///Volumes/T7%20Shield/Files/Projects/Real-Estate/real-estate-project/.next/_events.json
+2023-03-13 23:27:41 error: SQLITE_ERROR: no such table: issues
